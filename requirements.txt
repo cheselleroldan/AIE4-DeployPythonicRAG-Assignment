@@ -1,0 +1,4 @@
+numpy
+chainlit==0.7.700
+openai
+PyMuPDF
